@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nihal Abdul Khader MP</h1>
+<h1 align="center">Hi 👋, I'm Nihal Abdul Khader </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400"  src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/computers.gif"></img>
 
