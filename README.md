@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/nihalmp45" target="blank"><img src="https://img.shields.io/twitter/follow/nihalmp45?logo=twitter&style=for-the-badge" alt="nihalmp45" /></a> </p>
 
-- 🔭 I’m currently working on [Movie APP](movieappnihal-e6kaxx3p6-nihalmp45.vercel.app)
+
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Front end development**
+- 💬 Ask me about **Software development**
 
 - 📫 How to reach me : **nihalmp45@gmail.com**
 
