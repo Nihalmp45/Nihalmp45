@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Web and Mobile app development**
 
 - 💬 Ask me about **Software development**
 
