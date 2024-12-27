@@ -32,9 +32,7 @@
 <a href="https://golang.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> 
 </a>
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="sql" width="40" height="40"/> 
-</a>
+
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
