@@ -33,11 +33,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> 
 </a>
 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/303229/sql-database-generic.svg" alt="sql" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="sql" width="40" height="40"/> 
 </a>
+
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </a>
+
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> 
 </a>
@@ -51,7 +53,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 </a>
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Logo/PNG/prisma-logo-dark-rect.png" alt="prisma" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" alt="prisma" width="40" height="40"/> 
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
